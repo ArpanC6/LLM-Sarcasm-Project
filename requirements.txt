@@ -1,0 +1,5 @@
+pandas
+kagglehub
+notebook-llm-cli
+matplotlib
+numpy
